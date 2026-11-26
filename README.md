@@ -26,7 +26,15 @@ An experimental distributed SQL database with Raft consensus, a custom SQL engin
 
 [Source](https://github.com/andreyfemboyev/raftfb_extended) · [Architecture](https://github.com/andreyfemboyev/raftfb_extended/blob/main/ARCHITECTURE.md) · [Benchmarks](https://github.com/andreyfemboyev/raftfb_extended/tree/main/benchmarks) · [Releases](https://github.com/andreyfemboyev/raftfb_extended/releases)
 
-### 03 / Storage experiments
+### 03 / KERNEL//LAB
+
+*Build beneath Android.*
+
+Offline-first Android/Linux kernel engineering workbench: Rust CLI, Tauri desktop, build planning and artifact inspection, ABI comparison and panic diagnostics. Early alpha; the synthetic Kbuild fixture is not a full Android kernel build.
+
+[Source](https://github.com/andreyfemboyev/kernel-labs) · [Releases](https://github.com/andreyfemboyev/kernel-labs/releases) · [Portfolio film](https://andreyfemboyev.github.io/portfolio/#kernel-labs)
+
+### 04 / Storage experiments
 
 | Project | Focus |
 | --- | --- |
